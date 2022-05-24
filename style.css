@@ -56,7 +56,7 @@ body {
     width: 640px;
     height: 320px;
     top: 20%;
-    background: url(assets/car1.png);
+    background: url(car1.png);
 }
 
 .car2 {
@@ -64,7 +64,7 @@ body {
     width: 640px;
     height: 320px;
     top: 20%;
-    background: url(assets/car2.png);
+    background: url(car2.png);
 }
 
 .car3 {
@@ -72,7 +72,7 @@ body {
     width: 640px;
     height: 320px;
     top: 20%;
-    background: url(assets/car3.png);
+    background: url(car3.png);
 }
 
 .car4 {
@@ -80,7 +80,7 @@ body {
     width: 640px;
     height: 320px;
     top: 20%;
-    background: url(assets/car4.png);
+    background: url(car4.png);
 }
 
 .boy {
@@ -88,7 +88,7 @@ body {
     width: 128px;
     height: 118px;
     top: 20%;
-    background: url(assets/bow_walk.png);
+    background: url(bow_walk.png);
 }
 
 .girl {
@@ -96,5 +96,5 @@ body {
     width: 96px;
     height: 105px;
     top: 28%;
-    background: url(assets/girl_walk.png);
+    background: url(girl_walk.png);
 }
